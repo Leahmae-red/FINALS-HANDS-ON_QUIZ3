@@ -38,7 +38,7 @@ function App() {
       </div>
 
       <div className="task-list">
-        <h2>Task List</h2>
+        <h2>Simple Task List</h2>
 
         {tasks.length === 0 ? (
           <p>No tasks added yet.</p>
